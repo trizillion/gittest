@@ -1,2 +1,2 @@
 # gittest
-git test repository
+git test repository for demonstration
